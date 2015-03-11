@@ -1,0 +1,31 @@
+{
+  "name": "roster",
+  "version": "1.0.0",
+  "description": "Roster Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kia-minted/roster.git"
+  },
+  "author": "Kia Fathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kia-minted/roster/issues"
+  },
+  "homepage": "https://github.com/kia-minted/roster",
+  "devDependencies": {
+    "babel-core": "^4.7.7",
+    "babel-loader": "^4.1.0",
+    "webpack": "^1.7.2",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "flux": "^2.0.1",
+    "keymirror": "^0.1.1",
+    "object-assign": "^2.0.0",
+    "react": "^0.13.0"
+  }
+}
